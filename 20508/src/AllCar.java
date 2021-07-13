@@ -2,6 +2,7 @@
 public class AllCar {
 	//생성자 추가
 	AllCar(String name){ //기본형 이외의 생성자가 선언될 때에는
+	System.out.println("Test");
 		System.out.println("부모 AllCar 생성자");
 	}
 	
